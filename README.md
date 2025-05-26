@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @goagoonewardena
-- 👀 I’m interested in learning machine learning and data science
+- 👀 I’m passionate about cybersecurity and eager to build a career in protecting systems and data
 - 🌱 I’m currently learning at Informatics Institute of Technology
 - 📫 How to reach me oshadhigoon@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy uncovering insights from data and transforming them into actionable solutions
+- ⚡ Fun fact: I love exploring how technology can be used to protect people and systems.
 
 
