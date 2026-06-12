@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goagoonewardena
+- 👋 Hi, I’m Oshadhi Goonewardena
 - 👀 I’m passionate about cybersecurity and eager to build a career in protecting systems and data
 - 🌱 I’m currently learning at Informatics Institute of Technology
 - 📫 How to reach me oshadhigoon@gmail.com
