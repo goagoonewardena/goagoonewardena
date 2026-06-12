@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning at Informatics Institute of Technology
 - 📫 How to reach me oshadhigoon@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love exploring how technology can be used to protect people and systems.
+- ⚡ Fun fact: I love exploring how technology can be used to protect systems.
 
 
